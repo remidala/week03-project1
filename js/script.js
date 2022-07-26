@@ -1,5 +1,3 @@
-// const input = document.getElementsByTagName('input');
-
 
 const welcome = document.getElementById('welcome');
 const generator = document.getElementById('generator');
